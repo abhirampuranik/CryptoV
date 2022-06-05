@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="100">
+
+
+    <TextView
+        android:id="@+id/NameOfCoin"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_weight="70"
+        android:gravity="center"
+        android:text="Name of the coin"
+        android:textAlignment="viewStart"
+        android:textFontWeight="20"
+        android:textSize="17dp"
+        tools:ignore="RtlCompat" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="50"
+        >
+
+
+        <TextView
+            android:id="@+id/ValueOfCoin"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:gravity="bottom"
+            android:text="Value"
+            android:textAlignment="textEnd"
+            android:textSize="16dp" />
+
+        <TextView
+            android:id="@+id/ChangeOfValue"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:gravity="bottom"
+            android:text="Change"
+            android:textAlignment="textEnd"
+            android:textSize="15dp" />
+
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

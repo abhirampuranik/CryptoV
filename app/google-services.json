@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943715114655",
+    "project_id": "cryptov-70157",
+    "storage_bucket": "cryptov-70157.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943715114655:android:df8a72d47c389217378caa",
+        "android_client_info": {
+          "package_name": "com.example.cryptov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943715114655-0dud77nqiri7rn24bnsi9vkd40gp7l0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm-GFm-fUFAK0XaCJ4lHkpInLmgrOndD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943715114655-0dud77nqiri7rn24bnsi9vkd40gp7l0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
