@@ -8,7 +8,7 @@ Support 5 different currency conversion with ability to sort the added crypto cu
 App screenshots:
 
 <ins>Launch</ins>
-![Sign-in-up](https://github.com/abhirampuranik/CryptoV/blob/main/screenshots/Sign-in-up.jpg | width="48")
+![Sign-in-up](https://github.com/abhirampuranik/CryptoV/blob/main/screenshots/Sign-in-up.jpg | width=48)
 
 <ins>Sign In</ins>
 ![Signin](https://github.com/abhirampuranik/CryptoV/blob/main/screenshots/signin.jpg)
