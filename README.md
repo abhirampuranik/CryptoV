@@ -28,5 +28,6 @@ App screenshots:
 <img src="https://github.com/abhirampuranik/CryptoV/blob/main/screenshots/Add%20coins.jpg" width="500">
 
 <ins>Delete coin</ins>
+<!-- ![AddCoins](https://github.com/abhirampuranik/CryptoV/blob/main/screenshots/delcoins.jpg) -->
 <img src="https://github.com/abhirampuranik/CryptoV/blob/main/screenshots/delcoins.jpg" width="500">
 
